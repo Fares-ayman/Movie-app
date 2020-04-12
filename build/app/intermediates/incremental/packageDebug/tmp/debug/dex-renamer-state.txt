@@ -1,0 +1,4 @@
+#Mon Feb 24 23:27:13 EET 2020
+base.0=F\:\\Flutter_projects\\movie_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
